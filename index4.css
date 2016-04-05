@@ -1,0 +1,19 @@
+#uno{
+	border:2px solid yellow;
+	background-color: yellow;
+	width: 200px;
+    height: 100px;
+	display: inline;
+	margin:10px;
+ }
+#dos{ 
+	border:2px solid red;
+	background-color: red;
+	width: 200px;
+    height: 100px;
+	display: inline;
+	margin: 10px;
+ }
+ p{
+   padding-left: 10px;
+  }

@@ -1,0 +1,15 @@
+#uno{
+	border:2px solid yellow;
+	background-color: yellow;
+	width: 1200px;
+	height: 100px
+ }
+#dos{ 
+	border:2px solid red;
+	background-color: red;
+	width: 1200px;
+	height: 100px;
+ }
+ p{
+   margin-top: 0px;
+  }
